@@ -1,0 +1,9 @@
+.exchange {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 860px;
+  overflow: hidden;
+  width: 1480px;
+}
+

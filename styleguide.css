@@ -1,0 +1,18 @@
+:root { 
+  --black: #000000;
+  --electric-violet: #9908dd;
+  --monsoon: #898989;
+  --pizazz: #ff9400;
+  --white: #ffffff;
+ 
+  --font-size-m: 18px;
+  --font-size-m2: 20px;
+  --font-size-s2: 19px;
+  --font-size-xs2: 16px;
+  --font-size-xxl: 28px;
+  --font-size-xxl2: 36px;
+  --font-size-xxs: 14px;
+ 
+  --font-family-arial-bold: "Arial-Bold", Helvetica;
+  --font-family-libre_franklin: "Libre Franklin", Helvetica;
+}
